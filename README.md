@@ -16,7 +16,7 @@ Visit www.toptal.com/blog and subscribe to our newsletter to read great posts
 ## Usage
 
 To run the project, please use a command line the following:
- - npm start
+ '''npm start
     - It will run the server at port 3600.
 
 
